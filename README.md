@@ -89,10 +89,5 @@ Edge (latest)
 
 Mobile Safari & Chrome
 
-License
-MIT License - Free for commercial and personal use
-
-Support
-For assistance, please contact: support@glowgenix.com
 
 Note: Remember to replace all placeholder content with your actual product information and images before launching. For best results, use high-quality product photos and professional before/after images.
